@@ -9,3 +9,7 @@
 - python manage.py startapp <app_name>
 
     - start new app in project
+
+- python manage. makemigrations
+
+    - add new migration after create new model
